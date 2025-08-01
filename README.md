@@ -1,4 +1,4 @@
-<h2 align="center">Hi! My name is Saram. Nice To see You Here! 😃</h2>
+<h2 align="center">Hi! My name is Saram. Nice to see You Here! 😃</h2>
 
 ###
 
