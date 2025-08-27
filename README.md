@@ -10,6 +10,40 @@
 
 ###
 
+<h3 align="center">📊 Overall Language Experience (Public + Private)</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td><strong>JavaScript/TypeScript</strong></td>
+      <td>⭐⭐⭐⭐⭐</td>
+      <td>5+ years</td>
+    </tr>
+    <tr>
+      <td><strong>React/Next.js</strong></td>
+      <td>⭐⭐⭐⭐⭐</td>
+      <td>4+ years</td>
+    </tr>
+    <tr>
+      <td><strong>Node.js</strong></td>
+      <td>⭐⭐⭐⭐⭐</td>
+      <td>4+ years</td>
+    </tr>
+    <tr>
+      <td><strong>Python</strong></td>
+      <td>⭐⭐⭐⭐</td>
+      <td>3+ years</td>
+    </tr>
+    <tr>
+      <td><strong>Other Languages</strong></td>
+      <td>⭐⭐⭐</td>
+      <td>Various projects</td>
+    </tr>
+  </table>
+</div>
+
+###
+
 <br clear="both">
 
 
